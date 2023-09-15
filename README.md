@@ -1,2 +1,2 @@
-Cours Scrimba
+Cours : Scrimba
 Image : Freepik
