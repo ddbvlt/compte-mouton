@@ -1,0 +1,52 @@
+body {
+    background-image: url("compte-mouton.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: transparent;
+    max-width: 80%;
+    margin: auto;
+
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #1ab1e5;
+}
+
+#save-btn {
+    background: #edb588;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+.container { 
+    color:white;
+}
